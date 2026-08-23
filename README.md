@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
@@ -60,5 +61,10 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
