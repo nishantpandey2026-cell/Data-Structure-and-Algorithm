@@ -40,6 +40,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
