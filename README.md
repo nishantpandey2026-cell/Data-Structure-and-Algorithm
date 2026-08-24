@@ -9,6 +9,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0724-find-pivot-index](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
@@ -65,6 +66,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -78,4 +80,5 @@
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
