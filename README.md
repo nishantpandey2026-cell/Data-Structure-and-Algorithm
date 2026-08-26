@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0704-binary-search](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
@@ -16,6 +17,7 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
