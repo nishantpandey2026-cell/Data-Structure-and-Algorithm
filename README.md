@@ -57,6 +57,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
 | Problem Name | Difficulty |
@@ -89,4 +90,16 @@
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/2487-remove-nodes-from-linked-list) |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
