@@ -51,11 +51,13 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/2487-remove-nodes-from-linked-list) |
@@ -93,6 +95,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
