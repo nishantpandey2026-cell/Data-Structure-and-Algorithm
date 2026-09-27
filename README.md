@@ -69,6 +69,7 @@
 | [0206-reverse-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/2487-remove-nodes-from-linked-list) |
 ## Sorting
@@ -110,6 +111,7 @@
 | [0002-add-two-numbers](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
 | [0231-power-of-two](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0326-power-of-three/) | Easy |
+| [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -123,4 +125,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
