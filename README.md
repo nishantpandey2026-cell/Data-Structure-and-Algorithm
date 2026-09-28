@@ -51,6 +51,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -89,12 +90,14 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/2487-remove-nodes-from-linked-list) |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
