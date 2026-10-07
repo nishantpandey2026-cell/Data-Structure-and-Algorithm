@@ -115,6 +115,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0002-add-two-numbers/) | Medium |
+| [0009-palindrome-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
