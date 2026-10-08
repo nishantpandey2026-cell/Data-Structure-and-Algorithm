@@ -49,6 +49,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [1021-remove-outermost-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -89,6 +90,7 @@
 | [0032-longest-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
+| [1021-remove-outermost-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -99,6 +101,7 @@
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Two Pointers
