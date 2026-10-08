@@ -134,4 +134,8 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
