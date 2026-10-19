@@ -14,6 +14,7 @@
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -21,6 +22,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +83,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
