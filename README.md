@@ -79,6 +79,7 @@
 | [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
 | [2487-remove-nodes-from-linked-list](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/2487-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -130,6 +131,7 @@
 | [0326-power-of-three](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
 | [0509-fibonacci-number](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0509-fibonacci-number/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +146,7 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0342-power-of-four/) | Easy |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,4 +161,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 <!---LeetCode Topics End-->
