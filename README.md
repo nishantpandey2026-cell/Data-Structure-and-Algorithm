@@ -10,6 +10,7 @@
 | [0217-contains-duplicate](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
+| [0575-distribute-candies](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0575-distribute-candies/) | Easy |
 | [0704-binary-search](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
@@ -48,6 +49,7 @@
 | [0217-contains-duplicate](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
+| [0575-distribute-candies](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0575-distribute-candies/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## String
