@@ -7,6 +7,7 @@
 | [0056-merge-intervals](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -85,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
