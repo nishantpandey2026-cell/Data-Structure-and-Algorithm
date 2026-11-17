@@ -48,6 +48,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0575-distribute-candies/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
@@ -59,6 +60,7 @@
 | [0020-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0344-reverse-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1021-remove-outermost-parentheses](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -177,4 +179,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
