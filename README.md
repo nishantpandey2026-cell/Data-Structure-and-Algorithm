@@ -16,6 +16,7 @@
 | [0739-daily-temperatures](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -52,6 +53,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0575-distribute-candies](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0575-distribute-candies/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0904-fruit-into-baskets) |
+| [1207-unique-number-of-occurrences](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
