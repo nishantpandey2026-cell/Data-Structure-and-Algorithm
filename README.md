@@ -9,6 +9,7 @@
 | [0057-insert-interval](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0057-insert-interval) |
 | [0209-minimum-size-subarray-sum](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0217-contains-duplicate/) | Easy |
+| [0283-move-zeroes](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0575-distribute-candies](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0575-distribute-candies/) | Easy |
@@ -131,6 +132,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0283-move-zeroes](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/nishantpandey2026-cell/Data-Structure-and-Algorithm/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Monotonic Stack
